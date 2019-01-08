@@ -1,0 +1,663 @@
+{
+  "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Test\\bin\\Debug\\netcoreapp2.1\\GerenciamentoDeConferencias.Business.dll": {
+    "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Business\\ConferenciaBusiness.cs": {
+      "GerenciamentoDeConferencias.Business.ConferenciaBusiness": {
+        "System.Collections.Generic.List`1<GerenciamentoDeConferencias.Models.Trilha> GerenciamentoDeConferencias.Business.ConferenciaBusiness::GerarTrilhas(System.Collections.Generic.List`1<System.String>)": {
+          "Lines": {
+            "16": 9,
+            "20": 9,
+            "21": 102,
+            "22": 39,
+            "23": 39,
+            "24": 36,
+            "27": 6,
+            "30": 6,
+            "32": 34,
+            "33": 8,
+            "35": 8,
+            "38": 8,
+            "41": 8,
+            "44": 8,
+            "45": 8,
+            "47": 6,
+            "48": 6
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 49,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 39
+            },
+            {
+              "Line": 21,
+              "Offset": 49,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 32,
+              "Offset": 179,
+              "EndOffset": 95,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 8
+            },
+            {
+              "Line": 32,
+              "Offset": 179,
+              "EndOffset": 181,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 6
+            }
+          ]
+        },
+        "System.Int32 GerenciamentoDeConferencias.Business.ConferenciaBusiness::CalcularTotalDeTrilhasNecessarias(System.Collections.Generic.List`1<GerenciamentoDeConferencias.Models.Palestra>)": {
+          "Lines": {
+            "56": 6,
+            "59": 6,
+            "60": 42,
+            "61": 6,
+            "63": 6,
+            "64": 6,
+            "65": 6,
+            "66": 6,
+            "68": 6,
+            "69": 6
+          },
+          "Branches": [
+            {
+              "Line": 60,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 60,
+              "Offset": 14,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6
+            },
+            {
+              "Line": 63,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 6
+            },
+            {
+              "Line": 63,
+              "Offset": 57,
+              "EndOffset": 65,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 6
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<GerenciamentoDeConferencias.Models.Trilha> GerenciamentoDeConferencias.Business.ConferenciaBusiness::GerarTrilhas(System.Int32)": {
+          "Lines": {
+            "77": 6,
+            "78": 6,
+            "79": 28,
+            "80": 8,
+            "81": 8,
+            "82": 8,
+            "83": 8,
+            "85": 6,
+            "86": 6
+          },
+          "Branches": [
+            {
+              "Line": 79,
+              "Offset": 40,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 8
+            },
+            {
+              "Line": 79,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            }
+          ]
+        },
+        "System.Void GerenciamentoDeConferencias.Business.ConferenciaBusiness::PreencherSessao(System.Collections.Generic.List`1<GerenciamentoDeConferencias.Models.Palestra>,GerenciamentoDeConferencias.Models.Sessao,System.TimeSpan)": {
+          "Lines": {
+            "94": 16,
+            "95": 200,
+            "96": 76,
+            "97": 76,
+            "98": 36,
+            "99": 36,
+            "103": 36,
+            "106": 36,
+            "107": 36,
+            "108": 76,
+            "111": 52,
+            "112": 16
+          },
+          "Branches": [
+            {
+              "Line": 95,
+              "Offset": 120,
+              "EndOffset": 29,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 76
+            },
+            {
+              "Line": 97,
+              "Offset": 50,
+              "EndOffset": 52,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 36
+            },
+            {
+              "Line": 97,
+              "Offset": 50,
+              "EndOffset": 63,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 40
+            },
+            {
+              "Line": 97,
+              "Offset": 66,
+              "EndOffset": 68,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 36
+            },
+            {
+              "Line": 97,
+              "Offset": 66,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 76
+            },
+            {
+              "Line": 95,
+              "Offset": 120,
+              "EndOffset": 122,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 16
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Business\\ImpressaoBusiness.cs": {
+      "GerenciamentoDeConferencias.Business.ImpressaoBusiness": {
+        "System.Collections.Generic.List`1<System.String> GerenciamentoDeConferencias.Business.ImpressaoBusiness::GerarImpressaoTrilhas(System.Collections.Generic.List`1<GerenciamentoDeConferencias.Models.Trilha>)": {
+          "Lines": {
+            "19": 2,
+            "20": 2,
+            "22": 12,
+            "23": 3,
+            "24": 3,
+            "27": 3,
+            "30": 3,
+            "31": 3,
+            "34": 3,
+            "37": 3,
+            "38": 21,
+            "39": 3,
+            "40": 3,
+            "41": 3,
+            "45": 3,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 3,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 3,
+            "55": 3,
+            "56": 3,
+            "58": 3,
+            "59": 3,
+            "61": 2,
+            "62": 2
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 360,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 3
+            },
+            {
+              "Line": 37,
+              "Offset": 150,
+              "EndOffset": 152,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 150,
+              "EndOffset": 175,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 45,
+              "Offset": 243,
+              "EndOffset": 245,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 45,
+              "Offset": 243,
+              "EndOffset": 270,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 49,
+              "Offset": 295,
+              "EndOffset": 297,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 295,
+              "EndOffset": 322,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 22,
+              "Offset": 360,
+              "EndOffset": 365,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Collections.Generic.IEnumerable`1<System.String> GerenciamentoDeConferencias.Business.ImpressaoBusiness::GerarImpressaoSessao(GerenciamentoDeConferencias.Models.Sessao)": {
+          "Lines": {
+            "70": 6,
+            "71": 6,
+            "73": 76,
+            "74": 29,
+            "75": 29,
+            "76": 29,
+            "77": 29,
+            "79": 6,
+            "80": 6
+          },
+          "Branches": [
+            {
+              "Line": 73,
+              "Offset": 84,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 29
+            },
+            {
+              "Line": 73,
+              "Offset": 84,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            }
+          ]
+        }
+      }
+    }
+  },
+  "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Test\\bin\\Debug\\netcoreapp2.1\\GerenciamentoDeConferencias.Helper.dll": {
+    "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Helper\\Helper.cs": {
+      "GerenciamentoDeConferencias.Helper": {
+        "System.String GerenciamentoDeConferencias.Helper::FormatarHorario(System.TimeSpan)": {
+          "Lines": {
+            "17": 35,
+            "18": 35
+          },
+          "Branches": []
+        },
+        "System.String GerenciamentoDeConferencias.Helper::BuscarNumeros(System.String)": {
+          "Lines": {
+            "25": 39
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Test\\bin\\Debug\\netcoreapp2.1\\GerenciamentoDeConferencias.Models.dll": {
+    "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Models\\Palestra.cs": {
+      "GerenciamentoDeConferencias.Models.Palestra": {
+        "System.Int32 GerenciamentoDeConferencias.Models.Palestra::get_Duracao()": {
+          "Lines": {
+            "25": 536
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Palestra::set_Duracao(System.Int32)": {
+          "Lines": {
+            "26": 38
+          },
+          "Branches": []
+        },
+        "System.String GerenciamentoDeConferencias.Models.Palestra::get_Titulo()": {
+          "Lines": {
+            "34": 67
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Palestra::set_Titulo(System.String)": {
+          "Lines": {
+            "35": 38
+          },
+          "Branches": []
+        },
+        "System.TimeSpan GerenciamentoDeConferencias.Models.Palestra::get_Horario()": {
+          "Lines": {
+            "40": 52
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Palestra::set_Horario(System.TimeSpan)": {
+          "Lines": {
+            "41": 36
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Palestra::ValidarTrilha()": {
+          "Lines": {
+            "48": 39,
+            "49": 39,
+            "50": 1,
+            "51": 1,
+            "54": 38,
+            "55": 2,
+            "56": 2,
+            "61": 36,
+            "62": 0,
+            "63": 0,
+            "65": 36
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 49,
+              "Offset": 12,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 38
+            },
+            {
+              "Line": 54,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 54,
+              "Offset": 39,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 36
+            },
+            {
+              "Line": 61,
+              "Offset": 68,
+              "EndOffset": 70,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 68,
+              "EndOffset": 82,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 36
+            }
+          ]
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Palestra::PreecherTrilha(System.String)": {
+          "Lines": {
+            "72": 39,
+            "74": 39,
+            "77": 39,
+            "78": 35,
+            "79": 35,
+            "80": 35,
+            "81": 35,
+            "83": 4,
+            "84": 4,
+            "85": 4,
+            "86": 3,
+            "87": 3,
+            "88": 3,
+            "89": 3,
+            "90": 4,
+            "91": 39
+          },
+          "Branches": [
+            {
+              "Line": 77,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 35
+            },
+            {
+              "Line": 77,
+              "Offset": 21,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 85,
+              "Offset": 87,
+              "EndOffset": 89,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 85,
+              "Offset": 87,
+              "EndOffset": 118,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            }
+          ]
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Palestra::.ctor(System.String)": {
+          "Lines": {
+            "14": 39,
+            "15": 39,
+            "16": 39,
+            "17": 39,
+            "18": 36
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Models\\Sessao.cs": {
+      "GerenciamentoDeConferencias.Models.Sessao": {
+        "System.Int32 GerenciamentoDeConferencias.Models.Sessao::get_TempoDisponivel()": {
+          "Lines": {
+            "26": 392
+          },
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 26,
+              "Offset": 18,
+              "EndOffset": 43,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 112
+            }
+          ]
+        },
+        "System.Boolean GerenciamentoDeConferencias.Models.Sessao::get_Cheia()": {
+          "Lines": {
+            "31": 36
+          },
+          "Branches": []
+        },
+        "System.String GerenciamentoDeConferencias.Models.Sessao::get_Nome()": {
+          "Lines": {
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Sessao::set_Nome(System.String)": {
+          "Lines": {
+            "39": 16
+          },
+          "Branches": []
+        },
+        "System.Int32 GerenciamentoDeConferencias.Models.Sessao::get_Duracao()": {
+          "Lines": {
+            "47": 112
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Sessao::set_Duracao(System.Int32)": {
+          "Lines": {
+            "48": 16
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<GerenciamentoDeConferencias.Models.Palestra> GerenciamentoDeConferencias.Models.Sessao::get_Palestras()": {
+          "Lines": {
+            "56": 176
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Sessao::set_Palestras(System.Collections.Generic.List`1<GerenciamentoDeConferencias.Models.Palestra>)": {
+          "Lines": {
+            "57": 16
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Sessao::.ctor(System.String,System.Int32)": {
+          "Lines": {
+            "16": 16,
+            "17": 16,
+            "18": 16,
+            "19": 16,
+            "20": 16,
+            "21": 16
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\reinaldo.pereira\\source\\repos\\GerenciamentoDeConferencias\\GerenciamentoDeConferencias.Models\\Trilha.cs": {
+      "GerenciamentoDeConferencias.Models.Trilha": {
+        "System.Int32 GerenciamentoDeConferencias.Models.Trilha::get_NumeroTrilha()": {
+          "Lines": {
+            "24": 3
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Trilha::set_NumeroTrilha(System.Int32)": {
+          "Lines": {
+            "25": 8
+          },
+          "Branches": []
+        },
+        "GerenciamentoDeConferencias.Models.Sessao GerenciamentoDeConferencias.Models.Trilha::get_Manha()": {
+          "Lines": {
+            "33": 13
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Trilha::set_Manha(GerenciamentoDeConferencias.Models.Sessao)": {
+          "Lines": {
+            "34": 8
+          },
+          "Branches": []
+        },
+        "GerenciamentoDeConferencias.Models.Sessao GerenciamentoDeConferencias.Models.Trilha::get_Tarde()": {
+          "Lines": {
+            "42": 15
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Trilha::set_Tarde(GerenciamentoDeConferencias.Models.Sessao)": {
+          "Lines": {
+            "43": 8
+          },
+          "Branches": []
+        },
+        "System.Void GerenciamentoDeConferencias.Models.Trilha::.ctor(System.Int32)": {
+          "Lines": {
+            "12": 8,
+            "13": 8,
+            "14": 8,
+            "15": 8,
+            "16": 8,
+            "17": 8
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

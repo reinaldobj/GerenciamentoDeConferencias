@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>GerenciamentoDeConferencias.Business</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GerenciamentoDeConferencias.Models\GerenciamentoDeConferencias.Models.csproj" />
+  </ItemGroup>
+
+</Project>

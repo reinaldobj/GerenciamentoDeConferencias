@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciamentoDeConferencias", "GerenciamentoDeConferencias\GerenciamentoDeConferencias.csproj", "{E0BE06D1-AF02-4D5B-BA6C-FD98BB3FBED5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciamentoDeConferencias.Test", "GerenciamentoDeConferencias.Test\GerenciamentoDeConferencias.Test.csproj", "{E29C9C0E-DDB3-417D-8744-9B2A0C50D8BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1AFE4FE5-768B-4124-B738-93FEED15677D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciamentoDeConferencias.Helper", "GerenciamentoDeConferencias.Helper\GerenciamentoDeConferencias.Helper.csproj", "{450E29CC-8242-4B00-BAA1-55FBD69CADD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciamentoDeConferencias.Models", "GerenciamentoDeConferencias.Models\GerenciamentoDeConferencias.Models.csproj", "{9EF223E6-4974-4705-9DC3-4EBF34FEBBF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciamentoDeConferencias.Business", "GerenciamentoDeConferencias.Business\GerenciamentoDeConferencias.Business.csproj", "{FE07C639-B618-4CF1-90FA-B661987582BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BE06D1-AF02-4D5B-BA6C-FD98BB3FBED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BE06D1-AF02-4D5B-BA6C-FD98BB3FBED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BE06D1-AF02-4D5B-BA6C-FD98BB3FBED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BE06D1-AF02-4D5B-BA6C-FD98BB3FBED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29C9C0E-DDB3-417D-8744-9B2A0C50D8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29C9C0E-DDB3-417D-8744-9B2A0C50D8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29C9C0E-DDB3-417D-8744-9B2A0C50D8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29C9C0E-DDB3-417D-8744-9B2A0C50D8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450E29CC-8242-4B00-BAA1-55FBD69CADD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450E29CC-8242-4B00-BAA1-55FBD69CADD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450E29CC-8242-4B00-BAA1-55FBD69CADD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450E29CC-8242-4B00-BAA1-55FBD69CADD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF223E6-4974-4705-9DC3-4EBF34FEBBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF223E6-4974-4705-9DC3-4EBF34FEBBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF223E6-4974-4705-9DC3-4EBF34FEBBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF223E6-4974-4705-9DC3-4EBF34FEBBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE07C639-B618-4CF1-90FA-B661987582BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE07C639-B618-4CF1-90FA-B661987582BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE07C639-B618-4CF1-90FA-B661987582BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE07C639-B618-4CF1-90FA-B661987582BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43D74B8-51FD-472B-9DD9-0814ECB4A764}
+	EndGlobalSection
+EndGlobal
